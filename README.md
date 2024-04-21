@@ -43,5 +43,6 @@ Finally, we use our trained model to predict the percentage score for a given nu
 ### Conclusion
 And that's it! We've successfully implemented a linear regression model to predict student percentage scores based on study hours. I hope this video has been informative and helpful in understanding the fundamentals of supervised machine learning. Thank you for watching. If you have any questions or suggestions for future videos, feel free to leave them in the comments below. Don't forget to like and subscribe for more content. Until next time, happy coding!
 
-
+#### YouTube Video & LinkedIn Post
 [Youtube](https://youtu.be/hha0LB1xY9s)
+[LinkedIn Post](https://www.linkedin.com/posts/m-omer713_datascience-machinelearning-tsfgrip-activity-7187423479531520000-KNuh?utm_source=share&utm_medium=member_desktop)
