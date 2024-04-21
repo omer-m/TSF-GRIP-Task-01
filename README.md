@@ -45,4 +45,6 @@ And that's it! We've successfully implemented a linear regression model to predi
 
 #### YouTube Video & LinkedIn Post
 [Youtube](https://youtu.be/hha0LB1xY9s)
+
+
 [LinkedIn Post](https://www.linkedin.com/posts/m-omer713_datascience-machinelearning-tsfgrip-activity-7187423479531520000-KNuh?utm_source=share&utm_medium=member_desktop)
